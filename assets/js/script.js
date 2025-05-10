@@ -45,7 +45,7 @@ const reportsData = [
     },
     {
         platform: "Private Program",
-        platformIcon: "assets/private.png",
+        platformIcon: "assets/images/Private.jpg",
         title: "Authentication Bypass via API Endpoint",
         description: "Identified a flaw in the authentication mechanism allowing unauthorized access to sensitive data.",
         severity: "high",
