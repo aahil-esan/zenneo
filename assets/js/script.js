@@ -15,7 +15,7 @@ const reportsData = [
     // First 6 reports (always visible)
     {
         platform: "HackerOne",
-        platformIcon: "assets/images/hackerone.jpg",
+        platformIcon: "assets/images/hackerone.png",
         title: "Remote Code Execution via File Upload",
         description: "Discovered a critical vulnerability allowing unauthenticated users to upload malicious files leading to RCE on the target server.",
         severity: "critical",
