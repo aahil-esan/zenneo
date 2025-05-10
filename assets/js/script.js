@@ -25,7 +25,7 @@ const reportsData = [
     },
     {
         platform: "Bugcrowd",
-        platformIcon: "assets/bugcrowd.png",
+        platformIcon: "assets/images/bugcrowd.png",
         title: "SQL Injection in User Profile Endpoint",
         description: "Found a SQL injection vulnerability in the user profile endpoint that could lead to database compromise.",
         severity: "high",
@@ -65,7 +65,7 @@ const reportsData = [
     },
     {
         platform: "Bugcrowd",
-        platformIcon: "assets/bugcrowd.png",
+        platformIcon: "assets/images/bugcrowd.png",
         title: "Server-Side Request Forgery (SSRF)",
         description: "Identified an SSRF vulnerability allowing internal network scanning and metadata access.",
         severity: "high",
