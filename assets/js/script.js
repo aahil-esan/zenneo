@@ -35,7 +35,7 @@ const reportsData = [
     },
     {
         platform: "Intigriti",
-        platformIcon: "assets/intigriti.png",
+        platformIcon: "assets/images/intigriti.jpg",
         title: "Cross-Site Scripting (XSS) in Search Functionality",
         description: "Discovered a persistent XSS vulnerability in the search functionality affecting all users.",
         severity: "medium",
