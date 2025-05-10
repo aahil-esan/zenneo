@@ -15,7 +15,7 @@ const reportsData = [
     // First 6 reports (always visible)
     {
         platform: "HackerOne",
-        platformIcon: "assets/hackerone.png",
+        platformIcon: "assets/images/hackerone.jpg",
         title: "Remote Code Execution via File Upload",
         description: "Discovered a critical vulnerability allowing unauthenticated users to upload malicious files leading to RCE on the target server.",
         severity: "critical",
@@ -55,7 +55,7 @@ const reportsData = [
     },
     {
         platform: "HackerOne",
-        platformIcon: "assets/hackerone.png",
+        platformIcon: "assets/images/hackerone.jpg",
         title: "CSRF Leading to Account Takeover",
         description: "Found a CSRF vulnerability that could lead to full account compromise when combined with other flaws.",
         severity: "medium",
@@ -76,7 +76,7 @@ const reportsData = [
     // Additional reports (shown when "See More" clicked)
     {
         platform: "HackerOne",
-        platformIcon: "assets/hackerone.png",
+        platformIcon: "assets/images/hackerone.jpg",
         title: "Information Disclosure via API Response",
         description: "Discovered sensitive information being exposed in API responses without proper authorization checks.",
         severity: "medium",
